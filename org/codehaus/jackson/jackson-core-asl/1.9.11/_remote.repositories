@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 03 21:53:11 CDT 2016
+jackson-core-asl-1.9.11.jar>mule-codehaus=
+jackson-core-asl-1.9.11.jar>=
+jackson-core-asl-1.9.11.pom>mule-codehaus=
