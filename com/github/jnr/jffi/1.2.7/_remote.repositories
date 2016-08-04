@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 03 21:53:12 CDT 2016
+jffi-1.2.7.jar>=
+jffi-1.2.7-native.jar>mule-codehaus=
+jffi-1.2.7.pom>mule-codehaus=
+jffi-1.2.7-native.jar>=
+jffi-1.2.7.jar>mule-codehaus=

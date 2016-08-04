@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 03 21:53:11 CDT 2016
+jackson-coreutils-1.8.pom>mule-codehaus=
+jackson-coreutils-1.8.jar>=
+jackson-coreutils-1.8.jar>mule-codehaus=
