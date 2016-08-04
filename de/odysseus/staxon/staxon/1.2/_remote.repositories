@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 03 21:53:11 CDT 2016
+staxon-1.2.jar>=
+staxon-1.2.pom>mule-codehaus=
+staxon-1.2.jar>mule-codehaus=
