@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 03 21:53:12 CDT 2016
+jersey-multipart-1.18.1.jar>=
+jersey-multipart-1.18.1.pom>mule-codehaus=
+jersey-multipart-1.18.1.jar>mule-codehaus=
